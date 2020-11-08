@@ -1,0 +1,7 @@
+Leader: Johnathon Moore
+Project: Project Two
+Description: Work as a team to create a game using html, css, and php.
+Topic: A popular game show (Jeopardy)
+Jessica Haines - Basic framework, PowerPoint, this file
+K'Lani McClean - Questions and answers, some php, part of presentation
+Johnathon Moore - Some php, put everything together, part of presentation, uploaded to YouTube
